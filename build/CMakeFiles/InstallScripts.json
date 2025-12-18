@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/Users/zeynepyildirim/Desktop/parallel_image_pipeline/build/cmake_install.cmake"
+		"/Users/beyzahiz/Desktop/parallel_image/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

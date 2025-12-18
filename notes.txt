@@ -7,6 +7,15 @@ cmake.txt yazılacak
 cmake --build .
 ./serial_app
 
+SEN YUKARIDAKİ GİBİ ÇALIŞTIRDIN AMA ŞİMDİ BEN GÜNCELLEDİM YA DOSYA YOLU DEĞİŞTİ
+o yüzden yukarıdaki gibi çalıştıramayabilirsin belki bilmiyorum
+ben aşağıdaki şekilde çalıştırdım
+rm CMakeCache.txt
+cmake ..
+make
+./serial_app
+
+
 //görseli okuma
 //manuel grayscale nedir -> yaptım
 renkli 8 bit görüntüyü tek kanallı ve 0-1 arası float bir matrise çevirmek
@@ -27,3 +36,5 @@ gather
 
 //zamanl ölçe
 farklı threadlerle deneyip tablo yapısı oluşturacağız
+
+seri işlemle süre --> Gecen Sure: 2263.15 ms

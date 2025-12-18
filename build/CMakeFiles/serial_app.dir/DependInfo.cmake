@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/zeynepyildirim/Desktop/parallel_image_pipeline/serial/main.cpp" "CMakeFiles/serial_app.dir/serial/main.cpp.o" "gcc" "CMakeFiles/serial_app.dir/serial/main.cpp.o.d"
+  "/Users/beyzahiz/Desktop/parallel_image/serial/main.cpp" "CMakeFiles/serial_app.dir/serial/main.cpp.o" "gcc" "CMakeFiles/serial_app.dir/serial/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

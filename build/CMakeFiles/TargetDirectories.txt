@@ -1,3 +1,3 @@
-/Users/zeynepyildirim/Desktop/parallel_image_pipeline/build/CMakeFiles/serial_app.dir
-/Users/zeynepyildirim/Desktop/parallel_image_pipeline/build/CMakeFiles/edit_cache.dir
-/Users/zeynepyildirim/Desktop/parallel_image_pipeline/build/CMakeFiles/rebuild_cache.dir
+/Users/beyzahiz/Desktop/parallel_image/build/CMakeFiles/serial_app.dir
+/Users/beyzahiz/Desktop/parallel_image/build/CMakeFiles/edit_cache.dir
+/Users/beyzahiz/Desktop/parallel_image/build/CMakeFiles/rebuild_cache.dir
