@@ -1,6 +1,9 @@
 # Parallel Image Processing Pipeline  
 **Serial – OpenMP – MPI Comparison**
 
+**78.6% SPEEDUP COMPARED TO SERIAL THROUGH PARALLELIZATION**
+
+
 This project implements the **same image processing pipeline** using three different execution models in order to analyze and compare:
 
 - performance,
